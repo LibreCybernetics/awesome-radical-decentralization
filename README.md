@@ -1,3 +1,9 @@
+*Note*
+
+This list is also hosted trough a decentralized git hosting: ssb://%kbyncb8wOcGLjeDCKp7fxgvje15lC44gLZKGLfmtojQ=.sha256
+
+Mirror: https://git.scuttlebot.io/%25kbyncb8wOcGLjeDCKp7fxgvje15lC44gLZKGLfmtojQ%3D.sha256
+
 # Awesome Radical Decentralization Projects
 
 ## General
