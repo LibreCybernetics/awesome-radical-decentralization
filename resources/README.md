@@ -16,58 +16,48 @@ We are a print magazine about technology that publishes three times per year, wi
 
 ## Articles / Essays
 
+### Accelerationism
+
+ - Williams, Alex, and Nick Srnicek. #ACCELERATE MANIFESTO for an Accelerationist Politics. 2013,
+   criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/.
+
+### Social Anarchism
+
+ - Social Anarchist Futures. Solarpunk Anarchist, 2 May 2018,
+   solarpunkanarchists.com/2018/05/02/social-anarchist-futures/.
+
 ### Solarpunk
 
-#### Solarpunk Anarchist
-
- - [What is Solarpunk](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/)
- - [Social Anarchist Futures](https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures/)
+ - What Is Solarpunk?. Solarpunk Anarchist, 5 June 2016,
+   solarpunkanarchists.com/2016/05/27/what-is-solarpunk/. 
 
 ## Nonfiction Books
 
 ### Accelerationism
 
-#### Nick Srnicek
+ - Srnicek, Nick, and Alex Williams. Inventing the Future: Postcapitalism and a World without Work. Verso, 2016.
 
- - #ACCELERATE: Manifesto for an Accelerationist Politics
- - Inventing the Future: Postcapitalism and a World Without Work
- 
 ### Capitalism
 
-#### Nick Srnicek
-
- - Platform Capitalism
+ - Srnicek, Nick. Platform Capitalism. John Wiley & Sons, 2017.
  
 ### Cooperativism
 
-#### Trebor Scholz & Nathan Schneider
-
- - Ours to Hack and to Own: The Rise of Platform Cooperativism, A New Vision for the Future of Work and a Fairer Internet
+ - Scholz, Trebor, and Nathan Schneider. Ours to Hack and to Own: The Rise of Platform Cooperativism, a New Vision for the Future of Work and a Fairer Internet. OR Books, 2017.
 
 ### Communalism
 
-#### Murray Bookchin
-
- - The Murray Bookchin Reader by Janet Biehl
- - Anarchism, Marxism and the Future of the Left: Interviews and Essays, 1993-1998
- - Social Ecology and Communalism 
- - The Next Revolution: Popular Assemblies and the Promise of Direct Democracy
+ - Bookchin, Murray. The Murray Bookchin Reader. Montreal: Black Rose Books Ltd., 1999.
+ - Bookchin, Murray. Anarchism, Marxism and the Future of the Left. Oakland: AK Press, 1999.
+ - Bookchin, Murray. Social Ecology and Communalism. Oakland: AK Press, 2007.
 
 ### Social Anarchism
 
-#### Murray Bookchin
-
- - Post-Scarcity Anarchism
- - The Ecology of Freedom: The Emergence and Dissolution of Hierarchy
- - Remaking Society
- - Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm
+ - Bookchin, Murray. Post-scarcity Anarchism. Berkeley: Ramparts Press, 1971.
+ - Bookchin, Murray. The Ecology of Freedom: The Emergence and Dissolution of Hierarchy. Palo Alto: Cheshire Books, 1982.
+ - Bookchin, Murray. Social Anarchism or Lifestyle Anarchism: An Unbridgeable Chasm. Edinburgh: AK Press, 1995.
 
 # Fiction Books
 
-## Cory Doctorow
-
- - Walkaway
-
-## Ursula K. Le Guin
-
- - The Dispossessed
+ - Doctorow, Cory. Walkaway. TOR, 2017.
+ - Le Guin, Ursula K. The dispossessed. Harper & Row, 1974.
