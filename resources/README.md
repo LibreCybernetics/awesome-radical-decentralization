@@ -37,6 +37,12 @@ We are a print magazine about technology that publishes three times per year, wi
 #### Nick Srnicek
 
  - Platform Capitalism
+ 
+### Cooperativism
+
+#### Trebor Scholz & Nathan Schneider
+
+ - Ours to Hack and to Own: The Rise of Platform Cooperativism, A New Vision for the Future of Work and a Fairer Internet
 
 ### Communalism
 

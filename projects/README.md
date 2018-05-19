@@ -24,6 +24,10 @@ An encrypted IPv6 network using public-key cryptography for address allocation a
 
 Bitmessage is a P2P communications protocol used to send encrypted messages to another person or to many subscribers.
 
+### [BitTorrent](http://bittorrent.org/introduction.html)
+
+BitTorrent gives you the same freedom to publish previously enjoyed by only a select few with special equipment and lots of money. ("Freedom of the press is limited to those who own one" — journalist A.J. Liebling.)
+
 ### [Dat](https://datproject.org/)
 
 Dat is a nonprofit-backed data sharing protocol for applications of the future.
