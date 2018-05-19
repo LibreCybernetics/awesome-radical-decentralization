@@ -4,12 +4,12 @@ This is a resource linking to liberatory decent(tralized) projects, communities,
 
 # Structure
 
-All the information is in the following files:
+All the information is in the following directories:
 
- - projects/README.md
- - communities/README.md
- - organizations/README.md
- - resources/README.md
+ - projects/
+ - communities/
+ - organizations/
+ - resources/
 
 # Contributing
 
@@ -20,7 +20,7 @@ Everyone is encouraged to submit Pull Requests to improve this resource or file 
 ## Centralized
 
  - Github: https://www.github.com/fabianhjr/awesome-radical-decentralization
- - git-ssb mirror:https://git.scuttlebot.io/%25kbyncb8wOcGLjeDCKp7fxgvje15lC44gLZKGLfmtojQ%3D.sha256
+ - git-ssb mirror: https://git.scuttlebot.io/%25kbyncb8wOcGLjeDCKp7fxgvje15lC44gLZKGLfmtojQ%3D.sha256
 
 ## Decentralized
 

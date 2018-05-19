@@ -2,10 +2,6 @@
 
 ## Journals / Magazines / Periodicals / Podcasts
 
-### [Critical Legal Thinking](http://criticallegalthinking.com/)
-
-CLT is a platform for critical legal scholars and allies to publish theoretically informed comment and analysis.
-
 ### [General Intellect Unit](http://generalintellectunit.net/)
 
 Podcast of the Cybernetic Marxists. Examining the intersection of Technology, (Left) Politics and Philosophy
