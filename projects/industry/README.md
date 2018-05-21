@@ -10,6 +10,10 @@ We’re developing open source industrial machines that can be made for a fracti
 
 Humanity's open-source automated precision farming machine.
 
+## [OpenAg](https://www.media.mit.edu/groups/open-agriculture-openag/overview/)
+
+The MIT Media Lab Open Agriculture Initiative (OpenAg) is on a mission to create healthier, more engaging, and more inventive future food systems. We believe the precursor to a healthier and more sustainable food system will be the creation of an open-source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
+
 # Manufacturing
 
 ## [Lulzbot](https://www.lulzbot.com/)
