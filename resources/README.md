@@ -14,18 +14,15 @@ We are a print magazine about technology that publishes three times per year, wi
 
 ### Accelerationism
 
- - Williams, Alex, and Nick Srnicek. #ACCELERATE MANIFESTO for an Accelerationist Politics. 2013,
-   criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/.
+ - [Williams, Alex, and Nick Srnicek. #ACCELERATE MANIFESTO for an Accelerationist Politics. 2013](http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/)
 
 ### Social Anarchism
 
- - Social Anarchist Futures. Solarpunk Anarchist, 2 May 2018,
-   solarpunkanarchists.com/2018/05/02/social-anarchist-futures/.
+ - [Social Anarchist Futures. Solarpunk Anarchist, 2 May 2018](https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures/)
 
 ### Solarpunk
 
- - What Is Solarpunk?. Solarpunk Anarchist, 5 June 2016,
-   solarpunkanarchists.com/2016/05/27/what-is-solarpunk/. 
+ - [What Is Solarpunk?. Solarpunk Anarchist, 5 June 2016](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/)
 
 ## Nonfiction Books
 
