@@ -18,11 +18,13 @@ We are a print magazine about technology that publishes three times per year, wi
 
 ### Social Anarchism
 
+ - [Why "Social" Anarchism. Solarpunk Anarchist, 25 Februrary 2016](https://solarpunkanarchists.com/2016/02/25/why-social-anarchism/)
  - [Social Anarchist Futures. Solarpunk Anarchist, 2 May 2018](https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures/)
 
 ### Solarpunk
 
  - [What Is Solarpunk?. Solarpunk Anarchist, 5 June 2016](https://solarpunkanarchists.com/2016/05/27/what-is-solarpunk/)
+ - [Solarpunk as Anarchist Infrapolitics. Solarpunk Anarchist, 15 May 2018](https://solarpunkanarchists.com/2018/05/15/solarpunk-as-anarchist-infrapolitics/)
 
 ## Nonfiction Books
 
@@ -32,17 +34,17 @@ We are a print magazine about technology that publishes three times per year, wi
 
 ### Capitalism
 
- - Srnicek, Nick. Platform Capitalism. John Wiley & Sons, 2017.
+ - [Srnicek, Nick. Platform Capitalism. John Wiley & Sons, 2017.](http://politybooks.com/bookdetail/?isbn=9781509504862)
  
 ### Cooperativism
 
- - Scholz, Trebor, and Nathan Schneider. Ours to Hack and to Own: The Rise of Platform Cooperativism, a New Vision for the Future of Work and a Fairer Internet. OR Books, 2017.
+ - [Scholz, Trebor, and Nathan Schneider. Ours to Hack and to Own: The Rise of Platform Cooperativism, a New Vision for the Future of Work and a Fairer Internet. OR Books, 2017.](http://www.orbooks.com/catalog/ours-to-hack-and-to-own/)
 
 ### Communalism
 
  - Bookchin, Murray. The Murray Bookchin Reader. Montreal: Black Rose Books Ltd., 1999.
  - Bookchin, Murray. Anarchism, Marxism and the Future of the Left. Oakland: AK Press, 1999.
- - Bookchin, Murray. Social Ecology and Communalism. Oakland: AK Press, 2007.
+ - [Bookchin, Murray. Social Ecology and Communalism. Oakland: AK Press, 2007.](http://new-compass.net/publications/social-ecology-and-communalism)
 
 ### Social Anarchism
 
