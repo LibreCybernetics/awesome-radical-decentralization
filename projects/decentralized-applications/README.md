@@ -20,6 +20,10 @@ A blog publishing app for long-form articles. Also has private messaging integra
 
 # Social Networks
 
+## [Diaspora*](https://diasporafoundation.org/)
+
+Decentralized social network, In diaspora* you own your data. You are in control.
+
 ## [Patchbay](https://github.com/ssbc/patchbay)
 
 The goal is to make a client developers love - it comes with social views, as well as chess, book reviews, and some git interface.
