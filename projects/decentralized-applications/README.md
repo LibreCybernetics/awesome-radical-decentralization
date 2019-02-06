@@ -18,11 +18,6 @@ Freenet is free software which lets you anonymously share files, browse and publ
 
 A blog publishing app for long-form articles. Also has private messaging integrated.
 
-# Social Networks
-
-## [Diaspora*](https://diasporafoundation.org/)
-
-Decentralized social network, In diaspora* you own your data. You are in control.
 
 ## [Patchbay](https://github.com/ssbc/patchbay)
 
@@ -31,6 +26,11 @@ The goal is to make a client developers love - it comes with social views, as we
 ## [Patchwork](https://github.com/ssbc/patchwork)
 
 A decentralized messaging and sharing app built using patchcore. The goal is to make a standalone, easy to install, "social" view into the SSB world.
+
+# VPN Services
+
+### [wireguard VPN Tunnel](https://www.wireguard.com/)
+Fast, modern , encrypted  general purpose VPN Tunnel. Open Source.
 
 # Developer Tools
 
